@@ -69,4 +69,3 @@ For support or questions, please reach out to Kathryn Rasmussen at kathryn.g.ras
 ---
 
 **Note**: Canopy.io is intended for educational purposes only. Always ensure you have the appropriate permissions before using any of its features in a real-world scenario.
-```
